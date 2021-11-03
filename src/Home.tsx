@@ -3,7 +3,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
-import imageUrl from './assets/images/trofeo-image.png'
+import imageUrl from './assets/images/trophy-image.png'
 
 const Home: NextPage = () => {
   return (
