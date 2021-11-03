@@ -14,7 +14,8 @@ module.exports = {
   reactStrictMode: true,
   basePath: '/docs',
   trailingSlash: true,
-  assetPrefix: '',
+  productionBrowserSourceMaps: true,
+  // assetPrefix: '',
   // images: {
   //   deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
   // },
